@@ -1,1 +1,0 @@
-# 1C: Einführung in Python
